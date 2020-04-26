@@ -18,6 +18,7 @@ img {
 	display: block;
 	margin: auto;
 	padding: 6% 0px;
+	image-resolution: 72dpi;
 }
 
 p {

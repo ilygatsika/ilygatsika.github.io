@@ -1,5 +1,6 @@
 body {
-	max-width: 48em;
+	max-width: 100%;
+	width: 648px;
 	font-size: 0.9em;
 	line-height: 20px;
 	margin: auto;
@@ -14,7 +15,6 @@ body {
 }
 
 img {
-	max-width: 100%;
 	display: block;
 	margin: auto;
 	padding: 6% 0px;

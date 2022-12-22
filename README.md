@@ -1,3 +1,3 @@
-##### iolig.github.io
+##### ilygatsika.github.io
 
 Photo Blog

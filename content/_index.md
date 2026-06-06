@@ -12,7 +12,7 @@ I am currently a post-doctoral researcher at [Commedia team](https://team.inria.
 
 *Location*:  Office B405, Centre Inria Paris
 
-*Contact*: ioanna-maria (dot) lygatsika (at) inria (dot) fr
+*Contact*: ioanna-maria(dot)lygatsika(at)inria(dot)fr
 
 
 Find me also on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygatsika%2C+I),
@@ -30,6 +30,7 @@ Find me also on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygats
 - Model order reduction
 - High-performance computing
 - Hardware acceleration
+- Electronic structure theory
 
 ---
 

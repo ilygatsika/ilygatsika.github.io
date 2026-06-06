@@ -42,13 +42,11 @@ Find me also on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygats
 - 20/03/2024: Defended my PhD thesis on *Numerical methods for Gaussian discretizations in electronic
 structure theory problems* ([manuscript](https://theses.hal.science/tel-04693444v1/file/144147_LYGATSIKA_2024_archivage.pdf)) at the [Laboratoire Jacques-Louis Lions](https://www.ljll.fr/en/)
 
-- 2019: Master 2 internship at [Dassault Systèmes](https://www.3ds.com/) as software developer in mesh generation
-
-- 2018: Master 1 internship at [Renault](https://www.renaultgroup.com/) on geolocation data analysis for autonomous vehicles
-
 - 2018-2019: Master ["Mathematics and
   Applications"](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-mathematiques-et-applications-offre-2025-2026), Track ["Mathematics of Modeling"](https://www.ljll.fr/MathModel/)
   Major High-performance computing, Sorbonne Université
+    - Master 2 internship at [Dassault Systèmes](https://www.3ds.com/) as software developer in mesh generation
+    - Master 1 internship at [Renault](https://www.renaultgroup.com/) on geolocation data analysis for autonomous vehicles
 
 - 2014-2018: BSc at National and Kapodistrian University of Athens, [Department of Mathematics](https://en.math.uoa.gr/) 
 

@@ -5,7 +5,7 @@ title = "Home"
 
 # About
 
-I am currently a post-doctoral researcher at [Commedia team](https://team.inria.fr/commedia) at
+I am currently a post-doctoral researcher at [Commedia](https://team.inria.fr/commedia) project-team at
 [Inria](https://inria.fr) Paris, working with [Damiano Lombardi](https://team.inria.fr/commedia/lombardi) on numerical methods for high-dimensional problems. Before that, I was a post-doc at [LMCE](https://www-lmce.cea.fr/) at [CEA Bruyères-le-Châtel](https://www-dam.cea.fr/damidf/), working with [Marc Torrent](https://www-lmce.cea.fr/team/condensed_matter_physics/torrent.html) on spectrum slicing eigensolvers for GPU architectures in the [Abinit](https://www.abinit.org/) open-source code for materials science. I did my thesis on mathematics applied to quantum chemistry problems under the supervision of [Yvon Maday](https://www.ljll.fr/maday/) and [Jean-Philip Piquemal](https://piquemalresearch.com/) at [Sorbonne Université](https://www.sorbonne-universite.fr/). My thesis was funded by the [EMC2](https://erc-emc2.eu/) ERC project for extreme-scale mathematically-based computational chemistry. 
 
 *Affiliation*: COMMEDIA, Laboratoire Jacques–Louis Lions, Sorbonne Université and Inria Paris, 2 rue Simone Iff, 75012 Paris, France 

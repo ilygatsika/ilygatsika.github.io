@@ -46,7 +46,7 @@ structure theory problems* [[manuscript](https://theses.hal.science/tel-04693444
   Applications](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-mathematiques-et-applications-offre-2025-2026), Track [Mathematics of Modeling](https://www.ljll.fr/MathModel/),
   Major High-performance computing, Sorbonne Université
 
-    - Internship on *Error bars for vibrational frequencies in quantum chemistry*, supervised by [Julia
+    - Research project on *Error bars for vibrational frequencies in quantum chemistry*, supervised by [Julia
       Contreras-García](https://www.lct.jussieu.fr/pagesperso/contrera/), [David Gontier](https://cermics.enpc.fr/~gontierd/) and [Yvon Maday](https://www.ljll.fr/maday/)
     - Software developer intern in finite element mesh generation at [Dassault Systèmes](https://www.3ds.com/)
 

@@ -1,0 +1,11 @@
+  :root {
+    --link-color: #d66f0e;
+    --text-color: #000;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --link-color: #d97706;
+      --text-color: #ddd;
+    }
+  }

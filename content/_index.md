@@ -48,8 +48,8 @@ structure theory problems* [[manuscript](https://theses.hal.science/tel-04693444
   Major High-performance computing, Sorbonne Université
     - Internship on *Error bars for vibrational frequencies in quantum chemistry*, supervised by [Julia
       Contreras-García](https://www.lct.jussieu.fr/pagesperso/contrera/), [David Gontier](https://cermics.enpc.fr/~gontierd/) and [Yvon Maday](https://www.ljll.fr/maday/)
-    - Software developer intern on mesh generation at [Dassault Systèmes](https://www.3ds.com/)
-    - Software developer intern on autonomous vehicles at [Renault](https://www.renaultgroup.com/)
+    - Software developer intern on finite element mesh generation at [Dassault Systèmes](https://www.3ds.com/)
+    - R&D intern on autonomous vehicles at [Renault](https://www.renaultgroup.com/)
 
 - 2014-2018: BSc at National and Kapodistrian University of Athens, [Department of Mathematics](https://en.math.uoa.gr/) 
 

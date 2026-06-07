@@ -55,5 +55,5 @@ structure theory problems* [[manuscript](https://theses.hal.science/tel-04693444
 - 1996:  Born in Athens, Greece
 
 <div class="site-stats">
-  This webpage's footprint is 584 KB HTML size · 588 KB transfer size
+  This webpage's footprint is 584 KB HTML size · 600 KB transfer size
 </div>

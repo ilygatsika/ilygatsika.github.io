@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://ilygatsika.github.io"
-title = "Ioanna-Maria Lygatsika's Home Page"
-description = "A home page to share my research activities"
+title = "Ioanna-Maria Lygatsika - Personal website"
+description = "A personal website to share my work and research activities"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false

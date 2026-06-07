@@ -50,7 +50,9 @@ structure theory problems* [[manuscript](https://theses.hal.science/tel-04693444
       Contreras-García](https://www.lct.jussieu.fr/pagesperso/contrera/), [David Gontier](https://cermics.enpc.fr/~gontierd/) and [Yvon Maday](https://www.ljll.fr/maday/)
     - Software developer intern in finite element mesh generation at [Dassault Systèmes](https://www.3ds.com/)
 
-- 2014-2018: BSc at National and Kapodistrian University of Athens, [Department of Mathematics](https://en.math.uoa.gr/) 
+- 2014-2018: BSc at National and Kapodistrian University of Athens, [Department of Mathematics](https://en.math.uoa.gr/)
+
+- 1996: Born in Athens, Greece
 
 <div class="site-stats">
   <br>

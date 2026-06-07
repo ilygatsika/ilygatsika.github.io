@@ -1,11 +1,17 @@
-  :root {
+:root {
     --link-color: #d66f0e;
     --text-color: #000;
-  }
+}
 
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
     :root {
       --link-color: #d97706;
       --text-color: #ddd;
     }
-  }
+}
+
+.site-stats {
+    text-align: right;
+    font-style: italic;
+    color: #839496;
+}

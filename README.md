@@ -1,6 +1,6 @@
 ## Footprint
 
-Size of the generated HTML on disk
+Size of generated HTML on disk
 
     zola build
     du -sh public

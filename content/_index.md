@@ -5,13 +5,15 @@ title = "Home"
 # About
 
 I am a postdoctoral researcher at [COMMEDIA](https://team.inria.fr/commedia) project-team at
-Inria Paris, working with [Damiano Lombardi](https://team.inria.fr/commedia/lombardi) on numerical methods for high-dimensional problems, in particular low-rank tensor decomposition methods. I was previously a postdoctoral research engineer at [LMCE](https://www-lmce.cea.fr/) at CEA Bruyères-le-Châtel, working with [Marc Torrent](https://www-lmce.cea.fr/team/condensed_matter_physics/torrent.html) on the development of spectrum slicing eigensolvers on GPU architectures in the [Abinit](https://www.abinit.org/) open-source code for materials science.
+Inria Paris working with [Damiano Lombardi](https://team.inria.fr/commedia/lombardi) on numerical methods for high-dimensional problems, with a focus on low-rank tensor decomposition methods. Previously, I was a postdoctoral research engineer at [LMCE](https://www-lmce.cea.fr/) at the French Alternative Energies and Atomic Energy Commission ([CEA](https://www.cea.fr/)) Bruyères-le-Châtel, where I was member of the team of [Marc Torrent](https://www-lmce.cea.fr/team/condensed_matter_physics/torrent.html). My work concerned the development of spectrum slicing eigensolvers on GPU architectures in the [Abinit](https://www.abinit.org/) open-source software for materials science calculations.
 
-I did my PhD in applied mathematics under the supervision of [Yvon Maday](https://www.ljll.fr/maday/) and [Jean-Philip Piquemal](https://piquemalresearch.com/) at the Laboratoire Jacques-Louis Lions ([LJLL](https://www.ljll.fr/en/)) at [Sorbonne Université](https://www.sorbonne-universite.fr/). My PhD was funded by the Extreme-scale Mathematically-based Computational Chemistry ([EMC2](https://erc-emc2.eu/)) ERC Synergy grant. My thesis topic focused on numerical methods for solving electronic structure problems in molecular systems using atomic Gaussian-type orbital basis sets, with applications in quantum chemistry.
+I obtained my PhD in applied mathematics under the supervision of [Yvon Maday](https://www.ljll.fr/maday/) and [Jean-Philip Piquemal](https://piquemalresearch.com/) at the Laboratoire Jacques-Louis Lions ([LJLL](https://www.ljll.fr/en/)) at [Sorbonne Université](https://www.sorbonne-universite.fr/). My PhD was funded by the Extreme-scale Mathematically-based Computational Chemistry ([EMC2](https://erc-emc2.eu/)) ERC Synergy grant. My thesis topic focused on numerical methods for solving electronic structure problems in molecular systems using atomic Gaussian-type orbital basis sets, with applications in quantum chemistry.
 
 **Contact information:**\
 Office B405, Centre Inria Paris\
-2 rue Simone Iff, 75012 Paris, France\
+2 rue Simone Iff, 75012 Paris, France
+
+**E-mail:**\
 ioanna-maria(dot)lygatsika(at)inria(dot)fr
 
 Also find me on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygatsika%2C+I),
@@ -49,6 +51,7 @@ structure theory problems* [[manuscript](https://theses.hal.science/tel-04693444
     - Research internship on *Error bars for vibrational frequencies in quantum chemistry*, supervised by [Julia
       Contreras-García](https://www.lct.jussieu.fr/pagesperso/contrera/), [David Gontier](https://cermics.enpc.fr/~gontierd/) and [Yvon Maday](https://www.ljll.fr/maday/)
     - Software developer intern in finite element mesh generation at [Dassault Systèmes](https://www.3ds.com/)
+    - R&D intern at [Renault](https://www.renaultgroup.com/groupe/implantations/technocentre/)
 
 - 2014-2018: BSc at National and Kapodistrian University of Athens, [Department of Mathematics](https://en.math.uoa.gr/)
 

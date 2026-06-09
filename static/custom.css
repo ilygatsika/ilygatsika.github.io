@@ -15,3 +15,8 @@
     font-style: italic;
     color: #839496;
 }
+
+span.email {
+    font-family: monospace;
+    hyphens: none;
+}

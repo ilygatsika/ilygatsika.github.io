@@ -67,5 +67,5 @@ structure theory problems* [[manuscript](https://theses.hal.science/tel-04693444
 
 <div class="site-stats">
   <br>
-  This webpage loads 600 KB ·
+  This website loads 600 kB ·
 </div>

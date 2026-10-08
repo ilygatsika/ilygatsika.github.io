@@ -47,5 +47,5 @@ Impact of AI use in the scientific community, as reflected in the announcement o
 
 <div class="site-stats">
   <br>
-  This webpage loads about 500 KB ·
+  This webpage loads 500 KB ·
 </div>

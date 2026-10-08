@@ -43,7 +43,7 @@ Also find me on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygats
 
 ---
 
-Impact of AI use in the scientific community, as reflected in the announcement of the open-access archive [arXiv's October 1st 2026 policy update](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/) on preprint submissions.
+Impact of AI use in the scientific community, as reflected in the announcement of [arXiv's policy update](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/) on preprint submissions to the open-access archive on October 1st 2026.
 
 <div class="site-stats">
   <br>

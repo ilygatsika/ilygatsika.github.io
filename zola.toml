@@ -50,3 +50,7 @@ url = "@/codes.md"
 [[extra.main_menu]]
 name = "Teaching"
 url = "@/teaching.md"
+
+[[extra.main_menu]]
+name = "Bio"
+url = "@/bio.md"

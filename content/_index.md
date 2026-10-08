@@ -46,7 +46,7 @@ Also find me on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygats
 ## Resources
 
 - On the impact of AI use in the scientific community, as reflected in the announcement of [arXiv's policy update](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/) on preprint submissions to the open-access archive on October 1st 2026. 
-- On the impact of AI in code development and the reasons to change [Codeberg's terms of use](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) for adding LLM restrictions to protect open source projects in the Git hosting platform. A documentary on the history and organisation of collective efforts to protect free software and intellectual property rights: [*La bataille du libre*, 2019](https://www.labatailledulibre.org/en/the-movie/) (in french).
+- On the impact of AI in code development, as seen in the reasons behind the change in [Codeberg's terms of use](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) for adding LLM restrictions to protect open source projects in the Git hosting platform. A documentary on the history and organisation of collective efforts to protect free software and intellectual property rights: [*La bataille du libre*, 2019](https://www.labatailledulibre.org/en/the-movie/) (in french).
 
 <div class="site-stats">
   <br>

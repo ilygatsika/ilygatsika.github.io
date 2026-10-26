@@ -4,7 +4,8 @@ title = "Publications"
 
 ## Preprints
 
-- Ioanna-Maria Lygatsika, Marc Sarraute, Lucas Baguet, Pierre Kestener, and Marc Torrent, *GPU acceleration of plane-wave density functional theory calculations in Abinit*, 2026. [[preprint](https://arxiv.org/abs/2604.11139)] (accepted for publication in Computer Physics Communications)
+- Ioanna-Maria Lygatsika, Marc Sarraute, Lucas Baguet, Pierre Kestener, and Marc Torrent, *GPU acceleration of plane-wave density functional theory calculations in Abinit*, 2026. [[preprint](https://arxiv.org/abs/2604.11139), [doi](https://doi.org/10.1016/j.cpc.2026.110468)] (to appear in Computer Physics Communications 330, 110468 on January 2027)
+
 
 ## Published papers
 

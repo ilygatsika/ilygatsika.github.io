@@ -2,7 +2,7 @@
 title = "Research"
 +++
 
-This is an overview of my current and recent work organised by topics, that I try to keep up to update.
+This is an overview of my current or recent work organised by topics, that I try to keep up to update.
 
 ### Sparse auxiliary basis generation for the density fitting problem: a nonlinear optimization approach
 

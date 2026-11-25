@@ -18,7 +18,7 @@ Inria Paris\
 # About
 
 I am a postdoctoral researcher at [COMMEDIA](https://team.inria.fr/commedia) project-team at
-[Inria](https://www.inria.fr) Paris working on numerical methods for high-dimensional problems with [Damiano Lombardi](https://team.inria.fr/commedia/lombardi). My research focuses on nonlinear approximation of functions, rank-structured decomposition and low-rank tensor formats. 
+[Inria](https://www.inria.fr) Paris working on numerical methods for high-dimensional approximation problems with [Damiano Lombardi](https://team.inria.fr/commedia/lombardi). My research focuses on nonlinear approximation of functions, rank-structured decomposition and low-rank tensor formats. 
 
 Previously, I was a postdoctoral research engineer at [LMCE](https://www-lmce.cea.fr/) at the French Alternative Energies and Atomic Energy Commission ([CEA](https://www.cea.fr/)) Bruyères-le-Châtel, where I was a member of the team of [Marc Torrent](https://www-lmce.cea.fr/team/condensed_matter_physics/torrent.html). My work concerned the development of a spectrum slicing eigensolver for plane-wave density functional theory on GPU architectures in the [Abinit](https://www.abinit.org/) open-source software for materials science calculations.
 
@@ -35,19 +35,18 @@ Also find me on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygats
 
 ## Research interests
 
-- Numerical analysis
-- Model order reduction
+- Numerical analysis of approximation problems
 - High-performance computing
 - Hardware acceleration
 - Electronic structure calculations
 
 ---
 
-## Discussion
+## News
 
-- Questions and concerns on the scientific production and work cycles with the use of AI, as raised by the HPC research scientist Emmanuel Jeannot in [his essay](https://www.labri.fr/perso/ejeannot/ai-driven-science/ai-driven-science.html) in June 2026.
-- On the impact of AI use in the scientific community and in the ways of sharing scientific work, as reflected in the announcement of [arXiv's policy update](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/) on preprint submissions to the open-access archive on October 1st 2026. According to the available [stats](https://arxiv.org/stats/monthly_submissions), monthly submissions count for October 2026 was 52% higher than in October 2025.
-- On the impact of AI in code development practices and the reasons why [Codeberg's terms of use changed](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) to protect open source projects in the Git hosting platform. A documentary on the history and organisation of collective efforts to protect free software and intellectual property rights: [*La bataille du libre*, 2019](https://www.labatailledulibre.org/en/the-movie/) (in french).
+Announcing a final-year Master's internship offer at Inria Paris, on Dictionary learning
+for density fitting and pattern discovery, co-supervised with Damiano Lombardi. More information is available [here](/docs/Stage_M2.pdf). Interested candidates are invited to submit a motivation letter, CV and academic transcript.
+
 
 <div class="site-stats">
   <br>

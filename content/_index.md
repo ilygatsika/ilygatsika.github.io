@@ -18,7 +18,7 @@ Inria Paris\
 # About
 
 I am a postdoctoral researcher at [COMMEDIA](https://team.inria.fr/commedia) project-team at
-[Inria](https://www.inria.fr) Paris working on numerical methods for high-dimensional approximation problems with [Damiano Lombardi](https://team.inria.fr/commedia/lombardi). My research focuses on nonlinear approximation of functions, rank-structured decomposition and low-rank tensor formats. 
+[Inria](https://www.inria.fr) Paris working on numerical methods for high-dimensional problems with [Damiano Lombardi](https://team.inria.fr/commedia/lombardi). My current research focuses on nonlinear approximation of functions, rank-structured decomposition and low-rank tensor formats. 
 
 Previously, I was a postdoctoral research engineer at [LMCE](https://www-lmce.cea.fr/) at the French Alternative Energies and Atomic Energy Commission ([CEA](https://www.cea.fr/)) Bruyères-le-Châtel, where I was a member of the team of [Marc Torrent](https://www-lmce.cea.fr/team/condensed_matter_physics/torrent.html). My work concerned the development of a spectrum slicing eigensolver for plane-wave density functional theory on GPU architectures in the [Abinit](https://www.abinit.org/) open-source software for materials science calculations.
 
@@ -44,7 +44,7 @@ Also find me on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygats
 
 ## News
 
-Announcing a final-year Master's internship offer at Inria Paris, on Dictionary learning
+25/11/2026. Announcing a final-year Master's internship offer at Inria Paris, on the topic of dictionary learning
 for density fitting and pattern discovery, co-supervised with Damiano Lombardi. More information is available [here](/docs/Stage_M2.pdf). Interested candidates are invited to submit a motivation letter, CV and academic transcript.
 
 

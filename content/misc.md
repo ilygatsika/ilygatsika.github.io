@@ -1,8 +1,9 @@
 +++
-title = "Miscellaneous"
+title = ""
 +++
 
-This page contains various topics.
+This page contains resources on various topics related to science but not
+directly linked to my research topics.
 
 ## Maths outreach
 

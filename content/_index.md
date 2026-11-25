@@ -44,11 +44,11 @@ Also find me on [arXiv](https://arxiv.org/search/?searchtype=author&query=Lygats
 
 ## News
 
-25/11/2026. Announcing a final-year Master's internship offer at Inria Paris, on the topic of dictionary learning
-for density fitting and pattern discovery, co-supervised with Damiano Lombardi. More information is available [here](/docs/Stage_M2.pdf). Interested candidates are invited to submit a motivation letter, CV and academic transcript.
+25/11/2026. Open final-year Master's internship position at Inria Paris, on the topic of dictionary learning
+for density fitting and pattern discovery, co-supervised with Damiano Lombardi. More information on the offer is available [here](/docs/Stage_M2.pdf). Interested candidates are invited to submit a motivation letter, CV and academic transcript.
 
 
 <div class="site-stats">
   <br>
-  This webpage loads 500 KB ·
+  This webpage loads ~500 KB ·
 </div>
